@@ -13,6 +13,6 @@ If the LogIn is successfull alert message shows.
 
 <img width="1440" alt="Screenshot 2024-07-28 at 11 17 22 PM" src="https://github.com/user-attachments/assets/bc78f70c-9c5c-4584-8d9f-fb4f6252632d">
 
-Redirect to the next page
+All the details are valid redirect to the next page
 
 <img width="1440" alt="Screenshot 2024-07-28 at 11 17 46 PM" src="https://github.com/user-attachments/assets/5ae3371c-94bf-43cd-b597-bf81699f0abe">
